@@ -1,8 +1,8 @@
-package ejercicioUnoTest;
+package ejercicioUno;
 
 import java.util.Scanner;
 
-public class Main {
+public class Uno {
     public static void main(String[] args) {
 
         /*1)Crear un programa que lea un número entero desde la consola y lo imprima en la consola.*/
